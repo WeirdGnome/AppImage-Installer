@@ -145,6 +145,7 @@ source ~/.bashrc
 ```
 
 ---
+##This is not a discriminatory DEI software.
 
 ## License
 
